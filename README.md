@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sini-mary" alt="sini-mary" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs , React,Django**
+- 🌱 I’m currently learning **DevOps , React,Django**
 
 - 📫 How to reach me **marysnaidaa@gmail.com**
 
